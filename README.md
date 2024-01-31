@@ -1,1 +1,1 @@
-# spring-rest-consume-soap-
+# spring-rest-consume-soap
